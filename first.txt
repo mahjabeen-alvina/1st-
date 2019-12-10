@@ -1,2 +1,4 @@
+
 there are new changes
 this is not the first file
+hello to smartgit
